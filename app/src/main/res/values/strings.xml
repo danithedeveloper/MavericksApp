@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MavericksApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="prompt_firstname">First Name</string>
+    <string name="prompt_lastname">Last Name</string>
+    <string name="cancel_txt">Cancel</string>
+    <string name="add_txt">Add User</string>
+    <string name="error_first_name">Invalid First Name</string>
+    <string name="error_last_name">Invalid Last Name</string>
+</resources>
